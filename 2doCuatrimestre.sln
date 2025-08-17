@@ -7,6 +7,8 @@ Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "TP01", "TP01", "{02EA681E-C
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "EJ01", "EJ01\EJ01.csproj", "{EDF3066C-BDE0-47F4-AB63-4AF13F9E70F0}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "EJ02", "EJ02\EJ02.csproj", "{772CD8E0-C9D3-48E7-BAF8-9E3310DE607A}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -17,12 +19,17 @@ Global
 		{EDF3066C-BDE0-47F4-AB63-4AF13F9E70F0}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{EDF3066C-BDE0-47F4-AB63-4AF13F9E70F0}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{EDF3066C-BDE0-47F4-AB63-4AF13F9E70F0}.Release|Any CPU.Build.0 = Release|Any CPU
+		{772CD8E0-C9D3-48E7-BAF8-9E3310DE607A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{772CD8E0-C9D3-48E7-BAF8-9E3310DE607A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{772CD8E0-C9D3-48E7-BAF8-9E3310DE607A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{772CD8E0-C9D3-48E7-BAF8-9E3310DE607A}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
 	EndGlobalSection
 	GlobalSection(NestedProjects) = preSolution
 		{EDF3066C-BDE0-47F4-AB63-4AF13F9E70F0} = {02EA681E-C7D8-13C7-8484-4AC65E1B71E8}
+		{772CD8E0-C9D3-48E7-BAF8-9E3310DE607A} = {02EA681E-C7D8-13C7-8484-4AC65E1B71E8}
 	EndGlobalSection
 	GlobalSection(ExtensibilityGlobals) = postSolution
 		SolutionGuid = {1EE71410-DF5E-4905-A7AD-80C6D9AB76EB}

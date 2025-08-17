@@ -27,6 +27,8 @@ namespace EJ02
                 Console.WriteLine("Los valores a y b no son iguales");
 
             }
+
+            Console.ReadKey();
         }
     }
 }

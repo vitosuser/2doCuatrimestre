@@ -10,6 +10,7 @@ namespace EJ06
     {
         static void Main(string[] args)
         {
+            int[] sueldos
         }
     }
 }
